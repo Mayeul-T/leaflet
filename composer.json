@@ -1,0 +1,11 @@
+{
+    "name": "mayeul-t/leaflet",
+    "description": "Generate JS code to use Leaflet with PHP 7",
+    "authors": [
+        {
+            "name": "May Touch",
+            "email": "mayeult44@gmail.com"
+        }
+    ],
+    "require": {}
+}
